@@ -3,6 +3,18 @@
 #include <string.h> //pre pracu s retazcami
 #include <conio.h> //pre prikaz getch()
 
+typedef struct{
+    char znacka [20];
+    char OS [10];
+    int  rok;
+    int  cena;
+}MOBIL;
+
+typedef struct atom{
+    MOBIL m;
+    struct atom *nasl;
+}ATOM;
+
 int main()
 {
 
