@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/OneDrive - Univerzita Mateja Bela v Banskej Bystrici/Pracovná plocha/Algo2-1",
-      "program": "c:/Users/Lenovo/OneDrive - Univerzita Mateja Bela v Banskej Bystrici/Pracovná plocha/Algo2-1/build/Debug/outDebug",
+      "cwd": "c:/Users/Lenovo/Algo2",
+      "program": "c:/Users/Lenovo/Algo2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
