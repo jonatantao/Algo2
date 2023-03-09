@@ -134,8 +134,8 @@ void vloz(ZOZNAM *z, MOBIL x){
 }
 
 MOBIL hodnota(ZOZNAM z){
-    //if(!test_koniec(z) && !test_zaciatok(z))
-            return z.index->c;
+    if(!test_koniec(z) && !test_zaciatok(z))
+        return z.index->c;
 }
 
 void na_koniec(ZOZNAM *z){
