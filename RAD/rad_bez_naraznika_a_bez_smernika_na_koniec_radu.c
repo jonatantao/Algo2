@@ -1,5 +1,5 @@
 //Rad bez naraznika a bez smernika na koniec radu
-//V atomoch su ukladane informacie o osobe - znacka, OS, rok.
+//V atomoch su ukladane informacie o mobile - znacka, OS, rok.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h> //pre pracu s retazcami

@@ -1,0 +1,7 @@
+Apple iOS 2018 500
+Samsung Android 2019 750
+Apple iOS 2012 300
+Huawei Android 2022 650
+Xiaomi Android 2021 150
+Apple iOS 2023 1200
+Samsung Android 2022 900

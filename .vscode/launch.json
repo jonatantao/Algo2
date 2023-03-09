@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lenovo/Algo2",
-      "program": "c:/Users/Lenovo/Algo2/build/Debug/outDebug",
+      "cwd": "c:/Users/miche/Algo2",
+      "program": "c:/Users/miche/Algo2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
